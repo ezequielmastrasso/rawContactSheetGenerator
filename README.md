@@ -3,7 +3,6 @@ rawContactSheetGenerator
 
 Raw contact Sheet Generator, uses DCRaw,Exifv2 and PIL to create thumbnails of raw files, lighting fast, with custom fields like good old times transparencies.
 
-
 Intro:
 ------
 After upgrading from the 400D to the 7d and subsequently to the 5d Mark II and later to a Phase One P+ digital back, I noticed a huge performance hit on developing the raw files, no matter what software i would use.
@@ -15,3 +14,26 @@ The code quickly built up to have a few more options than expected, as to be abl
 It can go through 100 21megapixels Phase one raw photos within a directory, in less than 10 minutes, highly customizable to even look like a Mamiya AFD AFDII AFDIII or Phaso One AF film strip info, and this is the result.
 
 Check the screenshots folder for some examples made from 5dmarkII, and Phase Ones P25+ files.
+
+
+Requirements and installation:
+* Python 2.6 (or above)
+* PIL-1.1.7 with libjpeg lib
+* DCRaw exe(unzip it to the same folder, original or the helicons multithreaded version)
+* exiv2 exe (drop it to the same folder too)
+
+For PIL with jpeg decoder get the precompiled instalable binaries from:
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+Or if you are hardcore, go this way:
+
+http://effbot.org/zone/pil-decoder-jpeg-not-available.htm
+
+for DCRaw cmd go to this website
+
+http://www.rawness.es/category/descargas/catalogo-de-binarios-de-dcraw/?lang=en
+
+for Exiv2 go to this website
+
+http://www.exiv2.org/download.html
