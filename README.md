@@ -12,4 +12,6 @@ After the first long field trip bringing home around 100Gb of raw material, I ha
 After going through numerous softwares trying to get exactly what I wanted, I got really frustrated.
 DCRaw came into play here (opensource!!), huge perfomance difference, even more with www.heliconsoft.com modification to make dcraw multithread!.
 The code quickly built up to have a few more options than expected, as to be able to pick exactly which info to print in the picture, where to print it, a histogram overlay, custom text (for ie: the place where they where taken, see the sample images), and an extra panel for even showing more info as the lens used, focal length, focal distance, photographer (from camera settings), all read from the picture itself of course.
-It can go through 100 21megapixels Phase one raw photos within a directory, in less than 10 minutes, highly customizable to even look like a Mamiya AFD AFDII AFDIII or Phaso One AF film strip info, and this is the result
+It can go through 100 21megapixels Phase one raw photos within a directory, in less than 10 minutes, highly customizable to even look like a Mamiya AFD AFDII AFDIII or Phaso One AF film strip info, and this is the result.
+
+Check the screenshots folder for some examples made from 5dmarkII, and Phase Ones P25+ files.
