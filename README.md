@@ -16,6 +16,8 @@ It can go through 100 21megapixels Phase one raw photos within a directory, in l
 Screenshots folder for some examples made from 5dmarkII, and Phase Ones P25+ files.
 This examples show different settings to make the thumbnails with histograms, custom fields pulled from the exif information and each field layout options
 ![My image](examples//example_01.jpg)
+![My image](examples//example_02.jpg)
+![My image](examples//example_03.jpg)
 
 
 Requirements and installation:
