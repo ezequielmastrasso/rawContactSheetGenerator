@@ -13,7 +13,11 @@ DCRaw came into play here (opensource!!), huge perfomance difference, even more 
 The code quickly built up to have a few more options than expected, as to be able to pick exactly which info to print in the picture, where to print it, a histogram overlay, custom text (for ie: the place where they where taken, see the sample images), and an extra panel for even showing more info as the lens used, focal length, focal distance, photographer (from camera settings), all read from the picture itself of course.
 It can go through 100 21megapixels Phase one raw photos within a directory, in less than 10 minutes, highly customizable to even look like a Mamiya AFD AFDII AFDIII or Phaso One AF film strip info, and this is the result.
 
-Check the screenshots folder for some examples made from 5dmarkII, and Phase Ones P25+ files.
+Screenshots folder for some examples made from 5dmarkII, and Phase Ones P25+ files.
+This examples show different settings to make the thumbnails with histograms, custom fields pulled from the exif information and each field layout options
+![My image](rawContactSheetGenerator/examples//example_01.jpg)
+![My image](rawContactSheetGenerator/examples//example_02.jpg)
+![My image](rawContactSheetGenerator/examples//example_03.jpg)
 
 
 Requirements and installation:
